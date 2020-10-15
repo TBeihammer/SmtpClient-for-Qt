@@ -18,8 +18,8 @@
 
 #include "smtpclient.h"
 
-#include <QFileInfo>
-#include <QByteArray>
+#include <QtCore/QFileInfo>
+#include <QtCore/QByteArray>
 
 
 /* [1] Constructors and destructors */

@@ -17,8 +17,8 @@
 */
 
 #include "mimemultipart.h"
-#include <QTime>
-#include <QCryptographicHash>
+#include <QtCore/QTime>
+#include <QtCore/QCryptographicHash>
 
 const QString MULTI_PART_NAMES[] = {
     "multipart/mixed",         //    Mixed

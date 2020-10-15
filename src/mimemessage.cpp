@@ -18,7 +18,7 @@
 
 #include "mimemessage.h"
 
-#include <QDateTime>
+#include <QtCore/QDateTime>
 #include "quotedprintable.h"
 #include <typeinfo>
 

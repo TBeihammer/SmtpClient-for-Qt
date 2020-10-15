@@ -17,7 +17,7 @@
 */
 
 #include "mimefile.h"
-#include <QFileInfo>
+#include <QtCore/QFileInfo>
 
 /* [1] Constructors and Destructors */
 
